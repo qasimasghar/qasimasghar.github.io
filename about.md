@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the website for Qasim Asghar.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+In my day job, I'm a software developer working mostly with Web and Mobile and fiddling with other things in my free time.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I started playing around with PHP when I was in high school nearly 10 years ago. Ofcourse, that was the time when PHP was mostly found intertwined with HTML in big files that made your head hurt. When Symfony was just a baby and Laravel wasn't even a thought.
+
+Much has changed since then and PHP has grown so much.
+
+Anyway, I plan to log much of what I do here and talk about my thought processes behind some of my own personal projects and learning exercises.
+
+I hope that they can teach someone a thing or two along the way.
