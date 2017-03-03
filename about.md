@@ -9,7 +9,7 @@ This is the website for Qasim Asghar.
 
 In my day job, I'm a software developer working mostly with Web/Mobile and fiddling with other things in my free time.
 
-I started playing around with PHP when I was in high school nearly 10 years ago. Of course, that was the time when PHP was mostly found intertwined with HTML in big files that made your head hurt. When Symfony was just a baby and Laravel wasn't even a thought.
+I started playing around with PHP when I was in high school nearly 10 years ago. That was the time when PHP was mostly found intertwined with HTML in big files that made your head hurt. When Symfony was just a baby and Laravel wasn't even a thought.
 
 Much has changed since then and PHP has grown so much.
 
