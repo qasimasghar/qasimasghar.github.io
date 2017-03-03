@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Qasim Asghar
 email: me@qasimasghar.com
-description: > # this means to ignore newlines until "baseurl:"
-  Thought dumping ground for Qasim Asghar.
+description: | # this means to ignore newlines until "baseurl:"
+  I'm Qasim Asghar, a software developer based in Ipswich.
   
-  Find more information about my projects or just a blog post about something random I've tried over the weekend
+  This is my thought dumping ground. Filled with blog posts about something random I've tried over the weekend or information about some of my projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://qasimasghar.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: qasimaasghar
