@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+seoTitle: About Qasim Asghar - Software Developer in Ipswich
 permalink: /about/
 ---
 
